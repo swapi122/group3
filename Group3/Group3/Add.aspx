@@ -18,7 +18,7 @@
 </p>
 <p>
     <asp:Button ID="btAdd" runat="server" style="margin-left: 185px" 
-        Text="Add New" />
+        Text="Add New" onclick="btAdd_Click" />
 </p>
 <p>
 &nbsp;</p>

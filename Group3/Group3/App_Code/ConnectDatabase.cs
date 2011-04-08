@@ -11,9 +11,7 @@ using System.Configuration;
 public class ConnectDatabase
 {
 	public ConnectDatabase()
-	{
-	
-	}
+	{}
     public static SqlConnection getConnect() 
     {
         try
